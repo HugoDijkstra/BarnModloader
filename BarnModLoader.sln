@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2046
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BarnModLoader", "BarnModLoader\BarnModLoader.vcxproj", "{038304F8-0161-4DB6-AC2D-31C77D086DBA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mod", "..\mod\mod\mod.vcxproj", "{DD0BC9C1-3F0A-4077-8DF2-3C8ED66843D8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mod", "mod\mod.vcxproj", "{DD0BC9C1-3F0A-4077-8DF2-3C8ED66843D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
